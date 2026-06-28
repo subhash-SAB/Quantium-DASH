@@ -1,5 +1,5 @@
 # About 
-##This project is a web-based sales visualization tool designed to analyze the weekly, per-day sales performance of the food product Pink Morsel.
+This project is a web-based sales visualization tool designed to analyze the weekly, per-day sales performance of the food product Pink Morsel.
 
 Key features include:
 1. Interactive visualizations of daily sales trends.
