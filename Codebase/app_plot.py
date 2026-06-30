@@ -1,7 +1,7 @@
 from dash import Dash, html, dcc, Input, Output
 import pandas as pd
 import plotly.express as px
-from style import layout
+from style_ui import layout
 
 app=Dash(__name__)
 app.layout=layout
